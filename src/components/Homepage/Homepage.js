@@ -10,6 +10,8 @@ import {
 import { FaLinkedinIn,
          FaGoodreads
 } from "react-icons/fa";
+import { SiLeetcode } 
+  from "react-icons/si";
 
 function Home() {
   return (
@@ -25,6 +27,10 @@ function Home() {
               window.open("https://github.com/maulik8789");
             }}
               className='socailmediabtn'><AiFillGithub className='icon' /></button>
+            <button onClick={() => {
+              window.open("https://leetcode.com/maulik8789/");
+            }}
+              className='socailmediabtn'><SiLeetcode className='icon' /></button>
             <button onClick={() => {
               window.open("https://www.linkedin.com/in/maulik-vaghela-609122111/");
             }}
