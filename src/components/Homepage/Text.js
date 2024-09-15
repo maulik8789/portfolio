@@ -9,8 +9,10 @@ function Text() {
         id ="home"
         options={{
           strings: [
-            "React Js Developer",
-            "Front End Developer",
+            "Python Developer", 
+            "React JS Developer",
+            "Node JS Developer",
+            "Full Stack Developer",
           ],
           autoStart: true,
           loop: true,

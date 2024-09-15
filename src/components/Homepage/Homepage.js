@@ -32,7 +32,7 @@ function Home() {
             }}
               className='socailmediabtn'><SiLeetcode className='icon' /></button>
             <button onClick={() => {
-              window.open("https://www.linkedin.com/in/maulik-vaghela-609122111/");
+              window.open("https://www.linkedin.com/in/vaghelamaulik/");
             }}
               className='socailmediabtn'><FaLinkedinIn className='icon' /></button>
             <button onClick={() => {

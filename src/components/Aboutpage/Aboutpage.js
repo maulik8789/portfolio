@@ -9,7 +9,7 @@ function Aboutpage() {
         <div className='aboutpagebackground'>
             <Container>
                 <Row className='textbackground'>
-                    <Col md={7} >
+                    <Col md={10} >
                         <h3 className='aboutmetext'>About <span>Me</span></h3>
                         <span></span>
                         <Text />
@@ -33,7 +33,7 @@ function Aboutpage() {
                             </Row>
                         </ul>
                     </Col>
-                    <Col md={5}>
+                    <Col md={2}>
                         <div className="webimage"></div>
                     </Col>
                 </Row>

@@ -296,9 +296,9 @@
   background-color: #4158d0;
   background-image: linear-gradient(
     43deg,
-    black 0%,
-    #f5a7b5 46%,
-    #ffcc70 100%
+    #f5a7b5 0%,   
+    #ffcc70 50%,  
+    #ffe4b5 100% 
   );
   padding-top: 110px;
 }
@@ -349,8 +349,8 @@
   color: #e8e8e8;
 }
 .webimage {
-  max-width: 500px;
-  height: 350px;
+  max-width: 250px;
+  height: 180px;
   background-image: url(../Assets/web-removebg-preview.png);
   background-size: cover;
   background-position: center;
